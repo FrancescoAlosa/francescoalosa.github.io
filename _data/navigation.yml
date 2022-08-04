@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "WP"
-    url: /publications/
+  #- title: "WP"
+  #  url: /publications/
     
   - title: "Working Papers"
     url: /workingpapers/
