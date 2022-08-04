@@ -23,10 +23,6 @@ Teaching
    {% include archive-single-cv.html %}
    {% endfor %}</ul>
 
-*  Microeconomics -- Department of Economics-DSE, autumn 2020-2022
-*  Labour Economics -- Department of Economics-DSE, spring 2023
-*  Principles of Public Economics -- Department of Managment-DiSA, autumn 2020
-
 Skills
 ======
 Softwares
