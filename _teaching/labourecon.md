@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/labourecon
 venue: "University of Bologna, Department of Managment"
-date: 2023-15-02
+date: 2023-02-15
 location: "Bologna, Italy"
 ---
 
