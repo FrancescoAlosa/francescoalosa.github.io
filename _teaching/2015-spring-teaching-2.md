@@ -2,9 +2,9 @@
 title: "Principles of Public Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of Bologna, Department of Managment"
-date: 2020
+date: 05-10-2020
 location: "Bologna, Italy"
 ---
 
