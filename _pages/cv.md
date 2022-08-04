@@ -18,9 +18,9 @@ Education
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  #<ul>{% for post in site.teaching %}
+   # {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
 
 *  Microeconomics -- Department of Economics-DSE, autumn 2020-2022
 *  Labour Economics -- Department of Economics-DSE, spring 2023
@@ -28,12 +28,14 @@ Teaching
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Softwares
+* MATLAB, R, STATA, LaTeX, Gretl, Word, Excel, Power Point.
+
+Languages
+ *	Italian 
+ *  English 
+ *  French & Swedish (basic reading skills)
+
 
 Working Papers
 ======
@@ -41,12 +43,8 @@ Working Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Talks
+#======
+ #<ul>{% for post in site.talks %}
+ #   {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
