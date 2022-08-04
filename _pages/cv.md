@@ -18,9 +18,10 @@ Education
   
 Teaching
 ======
-  #<ul>{% for post in site.teaching %}
-   # {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+
+   <ul>{% for post in site.teaching %}
+   {% include archive-single-cv.html %}
+   {% endfor %}</ul>
 
 *  Microeconomics -- Department of Economics-DSE, autumn 2020-2022
 *  Labour Economics -- Department of Economics-DSE, spring 2023
@@ -43,8 +44,3 @@ Working Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
- #<ul>{% for post in site.talks %}
- #   {% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
