@@ -15,14 +15,13 @@ Education
 * M.S. in Economics, LSE, 2019
 * Ph.D in Economics, University of Bologna, 2024 (expected)
 
-Work experience
+Teaching
 ======
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+*  Microeconomics -- Department of Economics-DSE, autumn 2020-2022
+*  Labour Economics -- Department of Economics-DSE, spring 2023
+*  Principles of Public Economics -- Department of Managment-DiSA, autumn 2020
+
 Skills
 ======
 * Skill 1
