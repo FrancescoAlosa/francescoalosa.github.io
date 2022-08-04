@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bologna, Department of Economics"
-date: 20-09-2020
+date: 09-20-2020
 location: "Bologna, Italy"
 ---
 
