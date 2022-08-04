@@ -2,7 +2,7 @@
 title: "Microeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/microeconomics
 venue: "University of Bologna, Department of Economics"
 date: autumn 2020-2022
 location: "Bologna, Italy"
