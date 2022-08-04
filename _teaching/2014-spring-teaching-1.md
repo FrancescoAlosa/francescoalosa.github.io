@@ -1,10 +1,10 @@
 ---
 title: "Teaching Experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1.md
+type: "Workshop"
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bologna, Department of Economics"
-date: autumn 2020-2022
+date: 04-10-2022
 location: "Bologna, Italy"
 ---
 
