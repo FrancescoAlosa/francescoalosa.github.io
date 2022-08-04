@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,8 +15,12 @@ Education
 * M.S. in Economics, LSE, 2019
 * Ph.D in Economics, University of Bologna, 2024 (expected)
 
+  
 Teaching
 ======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 *  Microeconomics -- Department of Economics-DSE, autumn 2020-2022
 *  Labour Economics -- Department of Economics-DSE, spring 2023
@@ -42,13 +46,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
