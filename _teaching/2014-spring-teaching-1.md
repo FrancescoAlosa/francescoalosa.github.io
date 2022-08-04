@@ -1,7 +1,7 @@
 ---
-title: "Teaching Experience 1"
+title: "Microeconomics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Bologna, Department of Economics"
 date: 04-10-2022
