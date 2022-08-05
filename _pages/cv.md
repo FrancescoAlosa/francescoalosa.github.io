@@ -22,15 +22,7 @@ Working Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
-Teaching
-======
-
-   <ul>{% for post in site.teaching %}
-   {% include archive-single-cv.html %}
-   {% endfor %}</ul>
-  
-Conferences and Other Activities
+  Conferences and Other Activities
 ======
 
 - Public Economics PhD workshop - University of Helsinki, June 2022
@@ -38,6 +30,14 @@ Conferences and Other Activities
 - ZEW Public Finance Conference 2022 - University of Mannheim, May 2022
 - UCFS Workshop - Uppsala Center for Fiscal Studies, March 2022
 - Warwick Economics PhD (online) Conference, June 2021
+
+Teaching
+======
+
+   <ul>{% for post in site.teaching %}
+   {% include archive-single-cv.html %}
+   {% endfor %}</ul>
+  
   
 Skills
 ======
@@ -47,6 +47,6 @@ Softwares
 Languages
  *	Italian 
  *  English 
- *  French & Swedish (basic reading skills)
+ *  French (basic reading skills)
 
 
