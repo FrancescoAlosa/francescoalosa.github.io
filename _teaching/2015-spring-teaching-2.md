@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Bologna, Department of Managment"
-date: 2020-09-21
+date: 2020-09-19
 location: "Bologna, Italy"
 ---
