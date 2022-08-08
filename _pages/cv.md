@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Economics, University of Bologna, 2024 (expected)
 * M.S. in Economics, London School of Economics and Political Science (LSE), 2019
-* B.S. in Economic Sciences, Sapienza University, 201
+* B.S. in Economic Sciences, Sapienza University of Rome, 2018
 
 
 Working Papers
