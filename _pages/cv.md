@@ -33,7 +33,7 @@ Working Papers
 
 Teaching experience
 ======
-Teaching assistance for the following undergraduate courses:
+Teaching assistant for the following undergraduate courses:
 
    <ul>{% for post in site.teaching %}
    {% include archive-single-cv.html %}
