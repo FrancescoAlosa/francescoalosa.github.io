@@ -10,5 +10,5 @@ redirect_from:
 
 
 
-Hi! I am a third-year PhD student at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). My area of research is Public Economics, both from a theoretical and empirical perspective. As for theory, I am interested in optimal capital income taxation. As for empirics, I study how taxpayers respond to the incentives of the tax system. 
+Hi! I am a third-year PhD student at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). My area of research is Public Economics, both from a theoretical and empirical perspective. My theoretical research looks at optimal capital income taxation. My empirical research examines how taxpayers respond to the incentives of the tax system. 
 
