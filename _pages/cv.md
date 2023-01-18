@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<embed src="https://francescoalosa.github.io/assets/cv.pdf" type="application/pdf" />
 {% include base_path %}
 
 Education
