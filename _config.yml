@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Francesco Alosa"
 title_separator          : "-"
-avatar                   : "pf.jpg"
+avatar                   : "picture.jpg"
 name                     : &name "Francesco Alosa"
 description              : &description "PhD student in economics at University of Bologna"
 url                      : https://francescoalosa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Alosa"
-  avatar           : "pf.jpg"
+  avatar           : "picture.jpg"
   bio              : "PhD student in economics at University of Bologna"
   location         : "Bologna, Italy"
   employer         :
