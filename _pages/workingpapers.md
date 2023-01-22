@@ -15,3 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> | [Draft][identifying-prediction-mistakes] | [Supplement][identifying-prediction-mistakes-supplement] ]</small>
