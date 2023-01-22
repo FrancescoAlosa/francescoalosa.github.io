@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Papers"
+title: ""
 permalink: /workingpapers/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+<center> Working Papers </center>
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
 <small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> ]</small>
