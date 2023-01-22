@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 **Optimal Taxation and Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
-<small>[ <>Abstract</a>  ]</small>
+<small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> | [Draft][identifying-prediction-mistakes] | [Supplement][identifying-prediction-mistakes-supplement]  ]</small>
 
 
 <div id="identifying-prediction-mistakes" style="display: none; text-align: justify; line-height: 1.2" ><small>
