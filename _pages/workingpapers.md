@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+**Optimal**. 2022. <br/>
 <small>[ <a href="#/" onclick="visib('identifying-prediction-mistakes')">Abstract</a> | [Draft][identifying-prediction-mistakes] | [Supplement][identifying-prediction-mistakes-supplement] ]</small>
 
+
+<div id="identifying-prediction-mistakes" style="display: none; text-align: justify; line-height: 1.2" ><small>
+optimal
+</small><br><br/></div>
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
