@@ -23,7 +23,7 @@ Turnover is a key indicator of economic activity, but we know little about how m
 </small><br><br/></div>
 
 
-[Elasticity]:{{ site.baseurl }}{% link assets/EstimatingtheTurnoverElasticity.pdf %}
+[Elasticity]:{{ site.baseurl }}{% link assets/EstimatingTurnoverElasticity.pdf %}
 
 **Optimal Taxation and Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> ]</small>
