@@ -35,7 +35,7 @@ People with different attitudes to risk  have different views on the  extent to 
 
 [Public Good]:{{ site.baseurl }}{% link assets/Public Good.pdf %}
 
-# <center> Working in Progress </center>
+# <center> Work in Progress </center>
 
 Social Choices with Heterogeneous Risk Preferences.  <br/>
 
