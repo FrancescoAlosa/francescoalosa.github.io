@@ -25,7 +25,7 @@ Turnover is a key indicator of economic activity, but we know little about how m
 
 [Elasticity]:{{ site.baseurl }}{% link assets/WP1186.pdf %}
 
-**Optimal Taxation and Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
+**A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [Draft][Public Good] ]</small>
 
 
