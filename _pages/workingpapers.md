@@ -15,7 +15,7 @@ author_profile: true
 - - -
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
-<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> | [Draft][Elasticity]  ]</small>
+<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a>  ]</small>
 
 
 <div id="bunching" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -23,7 +23,6 @@ Turnover is a key indicator of economic activity, but we know little about how m
 </small><br><br/></div>
 
 
-[Elasticity]:{{ site.baseurl }}{%  %}
 
 **A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [Draft][Public Good] ]</small>
