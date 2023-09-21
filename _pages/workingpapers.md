@@ -32,7 +32,7 @@ Turnover is a key indicator of economic activity, but we know little about how m
 People with different attitudes to risk  have different views on the  extent to which society should invest in certain (risky) projects. This paper presents a theory of optimal provision of a (risky) public good when individuals have heterogeneous preferences for risk. The public good has an insurance purpose as it allows individuals to shift risk from private to public consumption. On the one hand, private provision of the public good is inefficient because people do not internalise the insurance gains of the other agents. On the other, public provision might fail to achieve the (ex-ante) first best outcome if agents cannot be targeted and compensated when the policy does not reflect their specific risk preferences. With an application on capital income and endowment taxation, this paper shows it is possible to improve welfare by   exploiting the different choices of the agents with different risk preferences. 
 </small><br><br/></div>
 
-[Public Good]:{{ site.baseurl }}{% link assets/Public Good.pdf %}
+[Public Good]:{{ site.baseurl }}{% link assets/ALOSA_A Theory of Public Good Provision with Heterogeneous Risk Preferences_August2023.pdf %}
 
 # <center> Work in Progress </center>
 
