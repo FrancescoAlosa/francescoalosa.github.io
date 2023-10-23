@@ -16,6 +16,7 @@ author_profile: true
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
 **(Job Market Paper)**
+
 <small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> | **New draft coming soon!** ]</small>
 
 
