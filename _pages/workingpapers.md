@@ -16,14 +16,14 @@ author_profile: true
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
 **(Job Market Paper)** <br/>
-<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> | **New draft coming soon!** ]</small>
+<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> | [Draft][Turnover Elasticity] ]</small>
 
 
 <div id="bunching" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Turnover is a key indicator of economic activity, but we know little about how much entrepreneurs adjust it as a response to taxation. This is because business taxation is usually based on profits, rather than turnover. This paper exploits the notch created by the eligibility cut-off of the preferential (turnover) tax regime for solo self-employed in Italy to study turnover responses to taxation. I find that many solo self-employed bunch below the turnover threshold to be eligible for the preferential scheme. The effects of the tax scheme on bunching are different in different sectors, with professionals, business intermediaries and retailers having the largest observed responses. Then, I estimate the turnover tax elasticity in these three sectors by focusing on the (last) marginal buncher. To do so, I build on Kleven and Waseem (2013) to develop a theoretical framework that matches the empirical evidence and derive a modified indifference condition that fits the institutional set-up. After accounting for compliance costs, professionals have the largest elasticity: 0.066. 
 </small><br><br/></div>
 
-
+[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
 **A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [Draft][Public Good] ]</small>
