@@ -16,8 +16,6 @@ My area of research is **Public Economics**, both from a theoretical and empiric
 
 Email: francesco.alosa2@unibo.it
 
-Link to my [**Job Market Paper**][Turnover Elasticity] ]</small>
-
-</small><br><br/></div>
+Link to my [**Job Market Paper**][Turnover Elasticity] ]
 
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
