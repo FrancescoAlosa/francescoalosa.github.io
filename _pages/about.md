@@ -16,3 +16,4 @@ My area of research is **Public Economics**, both from a theoretical and empiric
 
 Email: francesco.alosa2@unibo.it
 
+Link to my **Job Market Paper**: {{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
