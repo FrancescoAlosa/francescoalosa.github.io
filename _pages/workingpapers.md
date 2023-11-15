@@ -23,7 +23,8 @@ author_profile: true
 Turnover is a key indicator of economic activity, but we know little about how much entrepreneurs adjust it as a response to taxation. This paper exploits a discontinuity in the Italian tax schedule of solo self-employed to study turnover responses to taxation. I consider the notch created by the eligibility cut-off of the preferential turnover tax scheme. I find substantial and significant bunching by solo self-employed below the turnover threshold. The effects of the tax scheme on bunching are heterogeneous across sectors, with professionals, business intermediaries and retailers having the largest observed responses. I estimate the turnover tax elasticity in these three sectors by focusing on the  marginal buncher. To do so, I build on Kleven and Waseem (2013) to develop a theoretical framework that fits the institutional set-up and rationalises the observed responses to it. Professionals have the largest turnover elasticity (0.066). Difference in compliance costs across regimes explains less than half of the observed responses, therefore highlighting the key role of low taxation for the observed bunching behaviour.
 </small><br><br/></div>
 
-[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %} <br/>
+[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %} 
+
 [Prize]:{{ site.baseurl}}{% http://www.siepweb.it/siep/wp/en/premio-siep/ %}
 
 **A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
