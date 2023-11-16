@@ -15,7 +15,7 @@ author_profile: true
 - - -
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
-**(Job Market Paper)** [2023 SIEP Prize]({{ site.baseurl }}{% http://www.siepweb.it/siep/wp/en/premio-siep %})  <br/>
+**(Job Market Paper)** 2023 SIEP Prize(http://www.siepweb.it/siep/wp/en/premio-siep)  <br/>
 <small>[ <a href="#/" onclick="visib('bunching')">Abstract</a> | [Draft][Turnover Elasticity] ]</small>
 
 
