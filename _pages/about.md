@@ -14,10 +14,10 @@ Hi! I am a PhD candidate at University of Bologna and a member of the Uppsala Ce
 
 My area of research is **Public Economics**, both from a theoretical and empirical perspective. My theoretical research looks at optimal public good provision and capital income taxation. My empirical research examines how taxpayers respond to the incentives of the tax system. 
 
-Email: francesco.alosa2@unibo.it
-
 Link to my [**Job Market Paper**][Turnover Elasticity] 
 
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
 Upcoming talk: University of Verona, November 28th.
+
+Email: francesco.alosa2@unibo.it
