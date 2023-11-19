@@ -20,4 +20,5 @@ Link to my [**Job Market Paper**][Turnover Elasticity]
 
 
 Upcoming talk: University of Verona, November 28th.
+
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
