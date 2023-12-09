@@ -20,4 +20,4 @@ Link to my [**Job Market Paper**][Turnover Elasticity]
 
 Email: francesco.alosa2@unibo.it
 
-Upcoming talk: University of Bologna, December 6th.
+
