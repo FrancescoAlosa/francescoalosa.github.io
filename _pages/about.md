@@ -10,7 +10,9 @@ redirect_from:
 
 
 
-Hi! I am a PhD candidate at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). I am joining the University of Paris-Dauphine as a postdoc researcher this autumn, and the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
+Hi! I am a PhD candidate at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). 
+
+I am joining the University of Paris-Dauphine as a postdoc researcher this autumn, and the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
 
 My area of research is **Public Economics**, both from a theoretical and empirical perspective. My theoretical research looks at optimal public good provision and capital income taxation. My empirical research examines how taxpayers respond to the incentives of the tax system. 
 
