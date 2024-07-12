@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I am a PhD candidate at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). 
+Hi! I am a research fellow in economics at University of Bologna and a member of the Uppsala Center for Fiscal Studies (UCFS). 
 
 I am joining the University of Paris-Dauphine as a postdoc researcher this autumn, and the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
 
