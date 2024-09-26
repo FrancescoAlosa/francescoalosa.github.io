@@ -20,6 +20,6 @@ Link to my [**Job Market Paper**][Turnover Elasticity]
 
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
-Email: francesco.alosa2@unibo.it
+Email: francesco.alosa@dauphine.psl.eu - francesco.alosa2@unibo.it
 
 
