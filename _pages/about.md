@@ -16,9 +16,9 @@ I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure
 
 My area of research is **Public Economics**, both from a theoretical and empirical perspective. My theoretical research looks at optimal public good provision and capital income taxation. My empirical research examines how taxpayers respond to the incentives of the tax system. 
 
-Link to my [**Job Market Paper**][Turnover Elasticity] 
+#Link to my [**Job Market Paper**][Turnover Elasticity] 
 
-[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
+#[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
 Email: francesco.alosa@dauphine.psl.eu - francesco.alosa2@unibo.it
 
