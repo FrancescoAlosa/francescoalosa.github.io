@@ -38,8 +38,8 @@ People with different attitudes to risk  have different views on the  extent to 
 
 # <center> Work in Progress </center>
 
-The Gendered Effect of Working from Home (joint with Laura Khoury (University Paris Dauphine-PSL) and Youssef Souidi (Institut des politiques publiques))  <br/>
-Estimating the Revenue Effects of Preferential Tax Regimes in Italy. <br/>
+The Gendered Effect of Working from Home (joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des politiques publiques))  <br/>
+Big-box Stores, Local Employment and City Shape (joint with L. Khoury (University Paris Dauphine-PSL)) <br/>
 Social Choices with Heterogeneous Risk Preferences.  <br/>
 
 [//]: This java script is the button to show abstract
