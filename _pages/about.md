@@ -10,16 +10,20 @@ redirect_from:
 
 
 
-Hi! I am a postdoctoral researcher in economics at University Paris Dauphine-PSL and a member of the Uppsala Center for Fiscal Studies (UCFS). 
+I am a postdoctoral researcher in economics at University Paris Dauphine-PSL and a member of the Uppsala Center for Fiscal Studies (UCFS). 
 
 I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
 
-My main area of research is **Public Economics**, both from a theoretical and empirical perspective. My theoretical research looks at optimal public good provision and capital income taxation. My empirical research examines how taxpayers respond to the incentives of the tax system. 
+**Research areas**: Public Economics and Labour economics, both from a theoretical and empirical perspective
 
 Link to my [**Job Market Paper**][Turnover Elasticity] 
 
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
-Email: francesco.alosa@dauphine.psl.eu - francesco.alosa2@unibo.it
+Contact details:
+
+University of Paris Dauphine-PSL 
+Pl. du Maréchal de Lattre de Tassigny, 75016 Paris
+Email: francesco.alosa@dauphine.psl.eu
 
 
