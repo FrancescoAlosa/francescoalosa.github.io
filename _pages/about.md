@@ -10,11 +10,9 @@ redirect_from:
 
 
 
-I am a postdoctoral researcher in economics at University Paris Dauphine-PSL and a member of the Uppsala Center for Fiscal Studies (UCFS). 
+I am a postdoctoral researcher in economics at University Paris Dauphine-PSL and a member of the Uppsala Center for Fiscal Studies (UCFS). I received my PhD in July 2024 from the University of Bologna.
 
 I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
-
-I received my PhD in economics from the University of Bologna in 2024.
 
 **Research areas**: Public Economics and Labour economics, both from a theoretical and empirical perspective.
 
