@@ -14,6 +14,8 @@ I am a postdoctoral researcher in economics at University Paris Dauphine-PSL and
 
 I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure track) in September 2025. 
 
+I received my PhD in economics from the University of Bologna in 2024.
+
 **Research areas**: Public Economics and Labour economics, both from a theoretical and empirical perspective.
 
 Link to my [**Job Market Paper**][Turnover Elasticity] 
