@@ -23,7 +23,9 @@ Link to my [**Job Market Paper**][Turnover Elasticity]
 Contact details:
 
 University of Paris Dauphine-PSL 
+
 Pl. du Maréchal de Lattre de Tassigny, 75016 Paris
+
 Email: francesco.alosa@dauphine.psl.eu
 
 
