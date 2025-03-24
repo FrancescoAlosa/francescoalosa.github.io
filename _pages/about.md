@@ -16,9 +16,6 @@ I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure
 
 **Research areas**: Public Economics and Labour economics, both from a theoretical and empirical perspective.
 
-Link to my [**Job Market Paper**][Turnover Elasticity] 
-
-[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %}
 
 Contact details:
 
