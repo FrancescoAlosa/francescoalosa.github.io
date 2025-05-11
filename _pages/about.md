@@ -19,10 +19,8 @@ I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure
 
 Contact details:
 
-University of Paris Dauphine-PSL 
-
+University of Paris Dauphine-PSL  
 Pl. du Maréchal de Lattre de Tassigny, 75016 Paris
-
 Email: francesco.alosa@dauphine.psl.eu
 
 
