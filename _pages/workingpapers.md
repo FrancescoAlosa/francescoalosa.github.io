@@ -16,14 +16,14 @@ author_profile: true
 
 **Estimating the Elasticity of Turnover from Bunching: Preferential Tax Regimes for Solo Self-employed in Italy**.  <br/>
 [SIEP Prize 2023](http://www.siepweb.it/siep/wp/en/premio-siep/)  <br/>
-<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a>  ]</small>
+<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a>  | [Draft][Turnover Elasticity] ]</small>
 
 
 <div id="bunching" style="display: none; text-align: justify; line-height: 1.2" ><small>
 To stimulate entrepreneurship, several countries adopt size-dependent regimes that tax businesses on the basis of turnover rather than profits. This paper investigates to what extent such regimes can affect sales turnover by exploiting a discontinuity in the tax schedule of Italian solo self-employed.  I consider the notch created by the eligibility cut-off of the preferential turnover tax scheme. I find substantial and significant bunching below the turnover threshold, as some solo self-employed choose the turnover tax scheme over the profit-based tax regime. The effects of the turnover tax scheme on bunching are heterogeneous across sectors, with professionals, business intermediaries and retailers having the largest observed responses. For these three sectors, I estimate the turnover tax elasticity by exploiting a new theoretical framework that fits the  institutional set-up and rationalises the observed responses to it. The baseline estimates for the two most productive sectors, professionals and business intermediaries, are 0.071 and 0.058 respectively.  Lower compliance costs in the turnover tax regime explain less than half of these responses, therefore highlighting the key role of low taxation for bunching behaviour in high-value-added sectors.
 </small><br><br/></div>
 
-[Turnover Elasticity]:{{ site.baseurl }}{% link assets/JMP_ALOSA.pdf %} 
+[Turnover Elasticity]:{{ site.baseurl }}{% link assets/Estimating_the_elasticity_of_turnover_april2025.pdf %} 
 
 
 **A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
