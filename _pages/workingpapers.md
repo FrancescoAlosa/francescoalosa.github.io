@@ -40,7 +40,7 @@ People with different attitudes to risk  have different views on the  extent to 
 
 The Gendered Effect of Working from Home (joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des politiques publiques))  <br/>
 Big-box Stores, Local Employment and City Shape (joint with L. Khoury (University Paris Dauphine-PSL)) <br/>
-Social Choices with Heterogeneous Risk Preferences.  <br/>
+A Criterion to Evaluate Social Welfare when Risk Preferences are Heterogeneous.  <br/>
 
 [//]: This java script is the button to show abstract
 <script>
