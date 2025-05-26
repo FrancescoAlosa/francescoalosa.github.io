@@ -2,9 +2,6 @@
 title: ""
 collection: teaching
 type: ""
-permalink: /teaching/phd_course_bunching
-venue: ""
-date: 2025/05/12
 location: ""
 
 ---
