@@ -3,7 +3,6 @@ title: ""
 collection: teaching
 type: ""
 location: ""
-
 ---
 
 **Bunching Techniques to Estimate Threshold Effects** <br/>
