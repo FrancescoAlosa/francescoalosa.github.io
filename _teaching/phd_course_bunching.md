@@ -1,14 +1,15 @@
 ---
-title: "Bunching Techniques to Estimate Threshold Effects"
+title: ""
 collection: teaching
-type: "PhD course"
+type: ""
 permalink: /teaching/phd_course_bunching
-venue: "University Paris Dauphine - PSL, Department of Economics"
-date: 2025-05-12
-location: "Paris, France"
+venue: ""
+date: 
+location: ""
 ---
 
-
+**Bunching Techniques to Estimate Threshold Effects** <br/>
+PhD course - Department of Economics, University Paris Dauphine - PSL (May 2025) <br/>
 <small>[ [Slides][PhD course slides] ]</small>  <br/>
 
 [PhD course slides]:{{ site.baseurl }}{% link assets/PhD_course_bunching.pdf %} 
