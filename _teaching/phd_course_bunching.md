@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/phd_course_bunching
 venue: ""
-date: 
+date: ""
 location: ""
 ---
 
