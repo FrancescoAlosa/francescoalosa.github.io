@@ -9,6 +9,6 @@ location: "Paris, France"
 ---
 
 
-<small>[ <a href="#/" onclick="visib('bunching')">Abstract</a>  | [Slides][Turnover Elasticity] ]</small>  <br/>
+<small>[ [Slides][PhD course slides] ]</small>  <br/>
 
 [PhD course slides]:{{ site.baseurl }}{% link assets/PhD_course_bunching.pdf %} 
