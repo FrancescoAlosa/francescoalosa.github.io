@@ -17,10 +17,9 @@ I am joining the University of Lisbon-ISEG as an Assistant Professor (non-tenure
 **Research areas**: Public and Labour economics, both from a theoretical and empirical perspective.
 
 
-Contact details:
-
+Contact details:<br/>
 University of Paris Dauphine-PSL   <br/>
 Pl. du Maréchal de Lattre de Tassigny, 75016 Paris  <br/>
-Email: francesco.alosa@dauphine.psl.eu   <br/>
+Email: francesco.alosa@iseg.ulisboa.pt; francesco.alosa2@unibo.it   <br/>
 
 
