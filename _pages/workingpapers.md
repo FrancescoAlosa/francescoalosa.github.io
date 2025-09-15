@@ -31,13 +31,8 @@ To stimulate entrepreneurship, several countries adopt size-dependent regimes th
 
 
 <div id="optimal-tax" style="display: none; text-align: justify; line-height: 1.2" ><small>
-People with different attitudes to risk have different views on the extent to which society should invest in certain (risky) projects. This paper presents
-a theory of optimal provision of a (risky) public good when individuals have heterogeneous preferences for risk. The public good has an insurance purpose
-as it allows individuals to shift risk from private to public consumption. On the one hand, private provision of the public good is inefficient because people
-do not internalise the insurance gains of the other agents. On the other, public provision might fail to achieve the (ex-ante) first best outcome if agents cannot
-be targeted and compensated when the optimal policy does not reflect their specific risk preferences. When the government has full information, this paper
-argues that distorting intertemporal decisions by taxing safe capital income, on top of nonlinear labour earnings taxation, might be welfare-improving as
-it allows to increase insurance by changing individual savings behaviour while reducing labour-supply distortions. 
+People with different attitudes to risk  have different views on the  extent to which society should invest in certain (risky) projects. This paper presents a theory of optimal provision of a risky public good when individuals have heterogeneous preferences for risk and labour productivities. 
+The public good has an insurance purpose as it allows individuals to shift risk from private to public consumption. When it is privately provided, the risk allocation in the economy is inefficient because people do not internalise the insurance gains of the public good for the other agents who have different preferences for risk. When the public good is publicly provided, and it is financed by a piecewise linear tax schedule on labour earnings and linear taxes on safe and risky (excess) returns on savings, a  trade-off between insurance and equity arises. The progressivity of the labour income tax schedule and the desirability of imposing a tax on the safe return from savings crucially depend on whether the government prioritises redistribution towards low-income individuals or high risk averse individuals.
 </small><br><br/></div>
 
 [Public Good]:{{ site.baseurl }}{% link assets/Public_Good_Provision_with_Heterogeneous_Risk_Preferences_ALOSA.pdf %}
