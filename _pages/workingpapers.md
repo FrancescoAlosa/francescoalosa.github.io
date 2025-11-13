@@ -26,13 +26,12 @@ To stimulate entrepreneurship, several countries adopt size-dependent regimes th
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/Estimating_the_elasticity_of_turnover_april2025.pdf %} 
 
 
-**A Theory of Public Good Provision with Heterogeneous Risk Preferences**.  <br/>
+**Optimal Public Good Provision and Taxation with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [Draft][Public Good] ]</small>
 
 
 <div id="optimal-tax" style="display: none; text-align: justify; line-height: 1.2" ><small>
-People with different attitudes to risk  have different views on the  extent to which society should invest in certain (risky) projects. This paper presents a theory of optimal provision of a risky public good when individuals have heterogeneous preferences for risk and labour productivities. 
-The public good has an insurance purpose as it allows individuals to shift risk from private to public consumption. When it is privately provided, the risk allocation in the economy is inefficient because people do not internalise the insurance gains of the public good for the other agents who have different preferences for risk. When the public good is publicly provided, and it is financed by a piecewise linear tax schedule on labour earnings and linear taxes on safe and risky (excess) returns on savings, a  trade-off between insurance and equity arises. The progressivity of the labour income tax schedule and the desirability of imposing a tax on the safe return from savings crucially depend on whether the government prioritises redistribution towards low-income individuals or high risk averse individuals.
+This paper develops a theory of optimal public good provision when individuals have heterogeneous risk preferences, and derives optimal tax conditions in terms of sufficient statistics. When the public good is privately provided,  the risk allocation between  private and public consumption is inefficient because people do not internalise the insurance gains that the public good provides to other agents who have different preferences for risk. Then,  I study the optimal taxation of earnings, as well as risky and riskless capital income, when the public good is publicly provided, and agents also have heterogeneous labour productivities. The public good risk profile  depends on a weighted average of agents' consumption volatility, as the different tastes for risk are balanced at the societal level. The progressivity of the labour income tax schedule and the desirability of taxing riskless savings crucially depend on whether the government prioritises redistribution towards low-income individuals or highly risk-averse individuals. Unless aversion to risk is negatively related to labour productivity and income, a tension between equity and insurance motives arises.
 </small><br><br/></div>
 
 [Public Good]:{{ site.baseurl }}{% link assets/Public_Good_Provision_with_Heterogeneous_Risk_Preferences_ALOSA.pdf %}
