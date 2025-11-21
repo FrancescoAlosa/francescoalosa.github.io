@@ -38,8 +38,11 @@ This paper develops a theory of optimal public good provision when individuals h
 
 # <center> Work in Progress </center>
 
-The Gendered Effect of Working from Home (joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des politiques publiques))  <br/>
-Big-box Stores, Local Employment and City Shape (joint with L. Khoury (University Paris Dauphine-PSL) and A. Lapierre (University Paris Dauphine-PSL)) <br/>
+The Gendered Effect of Working from Home  <br/> 
+(joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des politiques publiques))  <br/>
+
+Big-box Stores, Local Employment and City Shape  <br/> (joint with L. Khoury (University Paris Dauphine-PSL) and A. Lapierre (University Paris Dauphine-PSL)) <br/>
+
 A Criterion to Evaluate Social Welfare when Risk Preferences are Heterogeneous.  <br/>
 
 [//]: This java script is the button to show abstract
