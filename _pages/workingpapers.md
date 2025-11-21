@@ -38,7 +38,7 @@ This paper develops a theory of optimal public good provision when individuals h
 
 # <center> Work in Progress </center>
 
-The Gendered Effect of Working from Home  <br/> 
+The Gendered Effects of Working from Home  <br/> 
 (joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des politiques publiques))  <br/>
 
 Big-box Stores, Local Employment and City Shape  <br/> (joint with L. Khoury (University Paris Dauphine-PSL) and A. Lapierre (University Paris Dauphine-PSL)) <br/>
