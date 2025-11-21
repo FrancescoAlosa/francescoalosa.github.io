@@ -12,9 +12,11 @@ redirect_from:
 
 I am an Assistant Professor in economics (non-tenure track) at Lisbon School of Economics and Managemenent (ISEG) since August 2025. 
 
-I received my PhD from the University of Bologna in July 2024. After that, I was a postdoc researcher at University Paris Dauphine - PSL. I am also a member of the Uppsala Center for Fiscal Studies (UCFS).
+I received my PhD from the University of Bologna in July 2024. After that, I was a postdoc researcher at University Paris Dauphine - PSL. 
 
-**Research areas**: public and labour economics, both from a theoretical and empirical perspective.
+I am also a member of the Uppsala Center for Fiscal Studies (UCFS), hosted at Uppsala University.
+
+**Research areas**: public and labour economics, with both theoretical and empirical work.
 
 
 Contact details:<br/>
