@@ -27,7 +27,7 @@ To stimulate entrepreneurship, several countries adopt size-dependent regimes th
 
 
 **Optimal Public Good Provision and Taxation with Heterogeneous Risk Preferences**.  <br/>
-<small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [**New** Draft - December 2025][Public Good] ]</small>
+<small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [**New Draft** - December 2025][Public Good] ]</small>
 
 
 <div id="optimal-tax" style="display: none; text-align: justify; line-height: 1.2" ><small>
