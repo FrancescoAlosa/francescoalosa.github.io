@@ -38,7 +38,7 @@ This paper develops a theory of optimal public good provision when individuals h
 
 # <center> Work in Progress </center>
 
-The Wage and Mobility Effects of Working from Home  <br/> 
+The Wage and Mobility Effects of Remote Work  <br/> 
 (joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des Politiques Publiques))  <br/>
 
 Big-box Stores, Local Employment and City Shape  <br/> (joint with L. Khoury (University Paris Dauphine-PSL) and A. Lapierre (University Paris Dauphine-PSL)) <br/>
