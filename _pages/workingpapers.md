@@ -25,7 +25,16 @@ To stimulate entrepreneurship, several countries adopt size-dependent regimes th
 
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/Estimating_the_elasticity_of_turnover_april2025.pdf %} 
 
+**The Wage and Mobility Effects of Remote Work**  <br/> 
+(joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des Politiques Publiques))  <br/>
+<small>[ <a href="#/" onclick="visib('wfh')">Abstract</a> | [**New Draft** - February 2026][wfh] ]</small>
 
+<div id="wfh" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The shift to remote work, with roots predating Covid-19, marks a major transformation of labor markets. This paper investigates its medium-run impact on workers' labor market outcomes, exploiting plant-level variation in remote work agreements implemented between 2014 and 2017 in France. Using an event study design and rich administrative data, we find that access to remote work yields moderate wage increases and facilitates geographical mobility with increases in commuting distance. Examining mechanisms, we find that workers moving to new plants that also have adopted remote work experience larger increases in commuting distance, along with upward occupational mobility. This pattern suggests that remote work options alleviate job search constraints, allowing workers to seek higher-paying and possibly higher-ranked jobs. Our analysis further reveals that plant-level remote work agreements raise firm productivity, benefiting both incumbent and newly hired workers. Overall, our results underscore how remote work reshapes labor market trajectories through its effects on mobility, job search, and productivity. 
+</small><br><br/></div>
+
+ [wfh]:{{ site.baseurl }}{% link assets/Projet_WFH.pdf %} 
+ 
 **Optimal Public Good Provision and Taxation with Heterogeneous Risk Preferences**.  <br/>
 <small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [**New Draft** - December 2025][Public Good] ]</small>
 
@@ -38,8 +47,6 @@ This paper develops a theory of optimal public good provision when individuals h
 
 # <center> Work in Progress </center>
 
-The Wage and Mobility Effects of Remote Work  <br/> 
-(joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des Politiques Publiques))  <br/>
 
 Big-box Stores, Local Employment and City Shape  <br/> (joint with L. Khoury (University Paris Dauphine-PSL) and A. Lapierre (University Paris Dauphine-PSL)) <br/>
 
