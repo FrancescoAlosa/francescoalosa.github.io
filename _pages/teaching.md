@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Undergraduate course** <br/>
+**Undergraduate courses** <br/>
 Public Economics and Finance  <br/>
 ISEG Lisbon School of Economics and Management, University of Lisbon (spring 2026)
 
