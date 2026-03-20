@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Francesco Alosa"
 title_separator          : "-"
-avatar                   : "picture.JPG"
+avatar                   : "new_pic.JPG"
 name                     : &name "Francesco Alosa"
 description              : &description "Assistant Professor in economics (non-tenure-track) at ISEG - University of Lisbon"
 url                      : https://francescoalosa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Alosa"
-  avatar           : "picture.jpg"
+  avatar           : "new_pic.jpg"
   bio              : "Invited Assistant Professor in economics at ISEG - University of Lisbon"
   location         : "Lisbon, Portugal"
   employer         :
