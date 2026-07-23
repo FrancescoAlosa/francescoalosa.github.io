@@ -36,14 +36,14 @@ The shift to remote work, with roots predating Covid-19, marks a major transform
  [wfh]:{{ site.baseurl }}{% link assets/Projet_WFH.pdf %} 
  
 **Optimal Public Good Provision and Taxation with Heterogeneous Risk Preferences**.  <br/>
-<small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [**New Draft** - December 2025][Public Good] ]</small>
+<small>[ <a href="#/" onclick="visib('optimal-tax')">Abstract</a> | [**New Draft** - July 2026][Public Good] ]</small>
 
 
 <div id="optimal-tax" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper develops a theory of optimal public good provision when individuals have heterogeneous risk preferences, and derives optimal tax conditions in terms of sufficient statistics. When the public good is privately provided,  the risk allocation between  private and public consumption is inefficient because people do not internalise the insurance gains that the public good provides to other agents who have different preferences for risk. Then,  I study the optimal taxation of earnings, as well as risky and riskless capital income, when the public good is publicly provided, and agents also have heterogeneous labour productivities. The public good risk profile  depends on a weighted average of agents' consumption volatility, as the different tastes for risk are balanced at the societal level. The progressivity of the labour income tax schedule and the desirability of taxing riskless savings crucially depend on whether the government prioritises redistribution towards low-income individuals or highly risk-averse individuals. Unless aversion to risk is negatively related to labour productivity and income, a tension between equity and insurance motives arises.
+This paper develops a theory of optimal public good provision and taxation when individuals differ by their labour productivities and risk preferences. Under private provision of public goods, there is an inefficient allocation of aggregate risk between private and public consumption, as individuals fail to internalize the insurance spillovers provided to agents with different risk attitudes. I then derive sufficient-statistic tax formulas under public provision. The optimal non-linear labour tax and the riskless return tax redistribute, respectively, across income levels and across risk aversion levels conditional on income, while internalizing fiscal externalities on capital tax bases. Both the progressivity of the labour income tax schedule and the sign of the riskless return tax depend on the joint distribution of income and risk preferences, and on the welfare weights used to compare agents with different risk preferences. A linear tax on risky excess returns plays an insurance role, balancing the different tastes for risk at the societal level. Finally, I characterize an alternative non-linear tax schedule on expected capital income: distorting portfolio choices can provide an additional margin for screening unobserved risk preferences.
 </small><br><br/></div>
 
-[Public Good]:{{ site.baseurl }}{% link assets/Public_Good_Provision_with_Heterogeneous_Risk_Preferences_ALOSA.pdf %}
+[Public Good]:{{ site.baseurl }}{% link assets/Optimal_taxation_and_Public_good_provision_july2026.pdf %}
 
 # <center> Work in Progress </center>
 
