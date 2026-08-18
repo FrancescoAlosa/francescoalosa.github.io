@@ -26,7 +26,7 @@ To stimulate entrepreneurship, several countries adopt size-dependent regimes th
 [Turnover Elasticity]:{{ site.baseurl }}{% link assets/Estimating_the_elasticity_of_turnover_april2025.pdf %} 
 
 **The Wage and Mobility Effects of Remote Work**  <br/> 
-(joint with L. Khoury (University Paris Dauphine-PSL) and Y. Souidi (Institut des Politiques Publiques))  <br/>
+joint with Laura Khoury (University Paris Dauphine-PSL)   <br/>
 <small>[ <a href="#/" onclick="visib('wfh')">Abstract</a> | [**New** - February 2026][wfh] ]</small>
 
 <div id="wfh" style="display: none; text-align: justify; line-height: 1.2" ><small>
